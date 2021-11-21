@@ -30,6 +30,8 @@ h1, h2{
 }
 .firstimg{
     border-radius: 5%;
+    width: 500px;
+    height: 386px;
 }
 .maindesc{
     padding: 0 20%;

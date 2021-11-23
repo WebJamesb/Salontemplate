@@ -1,9 +1,11 @@
 /*font-family: 'Dancing Script', cursive;*/
 
-html{
+body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     font-weight: 100;
+    width: 100%;
+    height: 100%;
 }
 
 nav ul{
@@ -14,16 +16,16 @@ nav ul{
 nav ul li{
     margin: 0 0 0 90px;
 }
+
 h1, h2{ 
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 2rem;
     font-weight: 300;
-    padding: 0 90px 0 0;
+    padding-right: 17%;
 }
 .heading{
     font-family: 'Dancing Script', cursive;
     font-size: 2.7rem;
-    margin: 10% 0 0 0;
 }
 .sndhead{
     margin-bottom:  4%;
@@ -98,8 +100,16 @@ h1, h2{
 }
 
 @media screen and (max-width: 500px) {
+    h1, h2{
+        font-size: 1.6rem;
+        font-weight: 300;
+    }
+
+    #starter p{
+        padding: 0 0% 5% 8%;
+    }
     .sndhead{
-        margin-left: 8%;
+        margin-left: 12%;
     }
     .maindesc{
         margin: 0 0 0 12%;
@@ -111,7 +121,16 @@ h1, h2{
 
     #services h1{
         font-size: 2.2rem;
-        text-align: end;
+        margin-left: 20%;
+    }
+    #team .srvhead{
+        font-size: 2.6rem;
+        margin-left: 15%;
+    }
+
+    #contact h1{
+        font-size: 2.6rem;
+        margin-left: 15%;
     }
 }
 
@@ -129,6 +148,7 @@ h1, h2{
     height: 400px;
     
 }
+
 
 
 

@@ -28,7 +28,8 @@ h1, h2{
     font-size: 2.7rem;
 }
 .sndhead{
-    margin-bottom:  4%;
+    margin: 0 0 4% 15%;
+    
 }
 .firstimg{
     border-radius: 5%;
@@ -36,8 +37,8 @@ h1, h2{
     height: 100%;
 }
 .maindesc{
-    padding: 0 20%;
-    margin-right: 7%;
+    padding: 0 10% 0 10%;
+    margin-right: 16%;
 }
 /* Services Section */
 #services{
@@ -47,6 +48,7 @@ h1, h2{
     font-family: 'Dancing Script', cursive;
     font-size: 2.9rem;
     padding-bottom: 30px;
+    margin-left: 12%;
 }
 .srv{
     margin-left: 10%;
@@ -120,8 +122,8 @@ h1, h2{
     }
 
     #services h1{
-        font-size: 1.8rem;
-        margin-left: 15%;
+        font-size: 2.2rem;
+        margin-left: 20%;
     }
     #team .srvhead{
         font-size: 2.6rem;
@@ -148,7 +150,3 @@ h1, h2{
     height: 400px;
     
 }
-
-
-
-

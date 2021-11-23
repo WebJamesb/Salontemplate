@@ -97,6 +97,24 @@ h1, h2{
     }
 }
 
+@media screen and (max-width: 500px) {
+    .sndhead{
+        margin-left: 8%;
+    }
+    .maindesc{
+        margin: 0 0 0 12%;
+        padding: 0 10% 10% 17%;
+    }
+    .seconddesc h2{
+      padding-left: 50%;
+    }
+
+    #services h1{
+        font-size: 2.2rem;
+        text-align: end;
+    }
+}
+
 /*Footer*/
 
 .telephone{
@@ -111,5 +129,6 @@ h1, h2{
     height: 400px;
     
 }
+
 
 

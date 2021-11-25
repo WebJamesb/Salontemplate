@@ -38,7 +38,7 @@ h1, h2{
     font-size: 2.7rem;
 }
 .sndhead{
-    margin: 0 0 4% 19%;
+    margin: 0 0 4% 16%;
     padding-left: 2%;
 }
 .firstimg{
@@ -112,7 +112,7 @@ h1, h2{
     }
     #starter h3{
         padding-left: 0%;
-        margin-left: 1%;
+        margin-left: 0%;
     }
     #starter p{
         margin-left: 9%;

@@ -39,7 +39,7 @@ h1, h2{
 }
 .sndhead{
     margin: 0 0 4% 19%;
-    padding-left: 5%;
+    padding-left: 2%;
 }
 .firstimg{
     border-radius: 5%;
@@ -112,14 +112,14 @@ h1, h2{
     }
     #starter h3{
         padding-left: 0%;
-        margin-left: 5%;
+        margin-left: 1%;
     }
     #starter p{
         margin-left: 9%;
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     h1, h2{
         font-size: 1.6rem;
         font-weight: 300;

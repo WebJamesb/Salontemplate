@@ -134,8 +134,8 @@ h1, h2{
         margin-left: 17%;
     }
     .maindesc{
-        margin: 0 0 0 5%;
-        padding: 0 10% 10% 15%;
+        margin-left: 2%;
+        padding: 0 10% 10% 10%;
     }
     .seconddesc h2{
       padding-left: 50%;

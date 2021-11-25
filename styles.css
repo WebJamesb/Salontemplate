@@ -9,15 +9,11 @@
     margin-right: 0px;
     margin-left: 0px; 
 }
-
 /* Custom css */
-
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.0rem;
     font-weight: 100;
-    margin: 0;
-    padding: 0;
     width: 100%;
     height: 100%;
 }

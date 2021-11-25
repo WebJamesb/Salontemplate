@@ -158,6 +158,7 @@ h1, h2{
     text-decoration: none;
 }
 .times{
+    list-style-type: none;
     text-decoration: none;
     height: 100%;
 }

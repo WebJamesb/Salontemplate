@@ -39,7 +39,7 @@ h1, h2{
 }
 .sndhead{
     margin: 0 0 4% 19%;
-    
+    padding-left: 5%;
 }
 .firstimg{
     border-radius: 5%;
@@ -82,7 +82,7 @@ h1, h2{
 }
 .pricebtn:hover{
     background-color: #F875AA;
-    color: white;
+    color: #fff;
 }
 .card-img-top{
     height: 286px;
@@ -111,7 +111,8 @@ h1, h2{
         padding-left: 5%;
     }
     #starter h3{
-        padding-left: 2%;
+        padding-left: 0%;
+        margin-left: 5%;
     }
     #starter p{
         margin-left: 9%;

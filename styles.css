@@ -1,4 +1,16 @@
 /*font-family: 'Dancing Script', cursive;*/
+/*Bootstrap css edits*/
+
+.col-12{
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0px; 
+}
+
+/* Custom css */
 
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;

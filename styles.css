@@ -108,7 +108,7 @@ h1, h2{
     }
 
     #starter h1{
-        padding-left: 8%;
+        padding-left: 5%;
     }
     #starter h3{
         padding-left: 5%;
@@ -123,7 +123,13 @@ h1, h2{
         font-size: 1.6rem;
         font-weight: 300;
     }
-
+    #starter h1{
+        padding-left: 5%;
+    }
+    
+    #starter h3{
+        padding-left: 2%
+    }
     #starter p{
         padding: 0 0% 5% 8%;
     }

@@ -38,8 +38,8 @@ h1, h2{
     font-size: 2.7rem;
 }
 .sndhead{
-    margin: 0 0 4% 10%;
-    padding-left: 2%;
+    margin: 0 0 4% 5%;
+    padding-left: 0%;
 }
 .firstimg{
     border-radius: 5%;
@@ -110,9 +110,9 @@ h1, h2{
     #starter h1{
         padding-left: 5%;
     }
-    #starter h3{
-        padding-left: 0%;
-        margin-left: 2%;
+    .sndhead {
+        padding-left: 25%;
+        margin-left: 0%;
     }
     #starter p{
         margin-left: 9%;

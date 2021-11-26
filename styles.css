@@ -165,6 +165,13 @@ h1, h2{
         margin-left: 19%
     }
 }
+@media screen and (max-width: 355px) {
+    .sndhead{
+    margin-left: 9%; 
+}
+    #starter p{
+        margin-left: 8%;
+}
 /*Footer*/
 
 .telephone{

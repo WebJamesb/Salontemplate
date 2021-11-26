@@ -38,7 +38,7 @@ h1, h2{
     font-size: 2.7rem;
 }
 .sndhead{
-    margin: 0 0 4% 17%;
+    margin: 0 0 4% 8%;
 }
 .firstimg{
     border-radius: 5%;
@@ -97,6 +97,11 @@ h1, h2{
 
 
 /* Media Queries */
+@media only screen and (max-width: 1232px){
+    .sndhead{
+          margin: 0 0 4% 8%; 
+    }
+}
 @media only screen and (max-width: 990px){
     nav ul{
         margin-left: 0;
@@ -109,8 +114,8 @@ h1, h2{
     #starter h1{
         padding-left: 5%;
     }
-    #starter h3{
-        margin: 0 0 4% 19%;
+    .sndhead{
+        margin: 0 0 4% 11%;
     }
     #starter p{
         margin-left: 9%;
@@ -124,7 +129,7 @@ h1, h2{
     }
     #starter h1{
         padding-left: 5%;
-    }
+    } 
     .sndhead{
         padding-left: 0;
     }

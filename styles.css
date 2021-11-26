@@ -97,11 +97,11 @@ h1, h2{
 
 
 /* Media Queries */
-@media only screen and (max-width: 1232px){
+/*@media only screen and (max-width: 1232px){
     .sndhead{
           margin: 0 0 4% 8%; 
     }
-}
+}*/
 @media only screen and (max-width: 990px){
     nav ul{
         margin-left: 0;

@@ -135,6 +135,9 @@ h1, h2{
         padding-left: 0;
         
     }
+    #starter p{
+        margin-left: 0;
+    }
     .maindesc{
         margin-left: 2%;
         padding: 0 10% 10% 10%;

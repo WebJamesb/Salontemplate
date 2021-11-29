@@ -162,7 +162,10 @@ h1, h2{
 @media screen and (max-width: 528px) {
 
     .sndhead{
-        margin-left: 19%
+        margin-left: 11%;
+    }
+    #starter p{
+        margin-left: 5%;
     }
 }
 @media screen and (max-width: 390px) {
